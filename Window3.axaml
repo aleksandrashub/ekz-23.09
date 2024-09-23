@@ -1,0 +1,42 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+		MaxHeight="450"
+		MaxWidth="800"
+        x:Class="subenok23.Window3"
+        Title="Window3">
+  <Grid
+	  ColumnDefinitions="*,*"
+	  RowDefinitions="30, 200">
+	  <StackPanel
+		  Grid.Column="0"
+		  Grid.Row="0">
+		  <TextBlock
+			  Text="Меню">
+			  </TextBlock>
+		  </StackPanel>
+	  <StackPanel
+		  HorizontalAlignment="Center"
+		  Orientation="Horizontal">
+	  <StackPanel
+		 Grid.Column="0"
+		 Grid.Row="1">
+		  <Button
+			  Click="Button_Click_1"
+			  Content="Добавить к заказу">
+			  </Button>
+	  </StackPanel>
+	  <StackPanel
+		  Grid.Column="1">
+		  <Button
+			 Click="Button_Click"
+			 Content="Отмена">
+		  </Button>
+	  </StackPanel>
+		  </StackPanel>
+		  
+	 
+	  </Grid>
+</Window>

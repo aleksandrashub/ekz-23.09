@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prdb\\source\\repos\\subenok23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|c:\\users\\prdb\\source\\repos\\subenok23\\window2.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|solutionrelative:window2.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|C:\\Users\\prdb\\source\\repos\\subenok23\\window3.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|solutionrelative:window3.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|C:\\Users\\prdb\\source\\repos\\subenok23\\window1.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|solutionrelative:window1.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|C:\\Users\\prdb\\source\\repos\\subenok23\\window2.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|solutionrelative:window2.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|C:\\Users\\prdb\\source\\repos\\subenok23\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|C:\\Users\\prdb\\source\\repos\\subenok23\\window3.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|solutionrelative:window3.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|C:\\Users\\prdb\\source\\repos\\subenok23\\window1.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|solutionrelative:window1.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|C:\\Users\\prdb\\source\\repos\\subenok23\\models\\zakazproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|solutionrelative:models\\zakazproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|C:\\Users\\prdb\\source\\repos\\subenok23\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|C:\\Users\\prdb\\source\\repos\\subenok23\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{C6690E64-DFEE-4AC5-8BBD-983905F872A6}|subenok23.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZakazProduct.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\subenok23\\Models\\ZakazProduct.cs",
+              "RelativeDocumentMoniker": "Models\\ZakazProduct.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\subenok23\\Models\\ZakazProduct.cs",
+              "RelativeToolTip": "Models\\ZakazProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:47:06.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window3.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\subenok23\\Window3.axaml",
+              "RelativeDocumentMoniker": "Window3.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\subenok23\\Window3.axaml",
+              "RelativeToolTip": "Window3.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-23T10:04:46.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window3.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\subenok23\\Window3.axaml.cs",
+              "RelativeDocumentMoniker": "Window3.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\subenok23\\Window3.axaml.cs",
+              "RelativeToolTip": "Window3.axaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAtwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:04:46.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window2.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\subenok23\\Window2.axaml",
+              "RelativeDocumentMoniker": "Window2.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\subenok23\\Window2.axaml",
+              "RelativeToolTip": "Window2.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-23T09:48:42.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window2.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\subenok23\\Window2.axaml.cs",
+              "RelativeDocumentMoniker": "Window2.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\subenok23\\Window2.axaml.cs",
+              "RelativeToolTip": "Window2.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:48:42.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Window1.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\subenok23\\Window1.axaml",
+              "RelativeDocumentMoniker": "Window1.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\subenok23\\Window1.axaml",
+              "RelativeToolTip": "Window1.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-23T08:54:42.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\subenok23\\Window1.axaml.cs",
+              "RelativeDocumentMoniker": "Window1.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\subenok23\\Window1.axaml.cs",
+              "RelativeToolTip": "Window1.axaml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwCEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:54:42.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\subenok23\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\subenok23\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:25:09.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\subenok23\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "MainWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\subenok23\\MainWindow.axaml",
+              "RelativeToolTip": "MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-23T06:41:23.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\subenok23\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\subenok23\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:41:21.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
